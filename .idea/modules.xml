@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apollo/apollo.iml" filepath="$PROJECT_DIR$/apollo/apollo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi2.iml" filepath="$PROJECT_DIR$/multi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webs/webs.iml" filepath="$PROJECT_DIR$/webs/webs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webs/webs-api/webs-api.iml" filepath="$PROJECT_DIR$/webs/webs-api/webs-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webs/webs-dao/webs-dao.iml" filepath="$PROJECT_DIR$/webs/webs-dao/webs-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webs/webs-service/webs-service.iml" filepath="$PROJECT_DIR$/webs/webs-service/webs-service.iml" />
+    </modules>
+  </component>
+</project>

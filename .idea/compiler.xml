@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="webs-api" />
+        <module name="webs-dao" />
+        <module name="webs-service" />
+        <module name="websapi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="apollo" target="1.5" />
+      <module name="multi1" target="1.5" />
+      <module name="multi2" target="1.5" />
+      <module name="webs" target="1.8" />
+      <module name="webs-api" target="1.8" />
+      <module name="webs-dao" target="1.8" />
+      <module name="webs-service" target="1.8" />
+      <module name="websapi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
